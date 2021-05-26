@@ -1,0 +1,8 @@
+<root>
+  <message info="Receiver: 8000. From: 127.0.0.1:51896" type="Received">
+    <packet>c2VydmVyL2NvbmZpcm0AACwAAAA=</packet>
+  </message>
+  <message info="Transmitter: 127.0.0.1:8050" type="Transmitted">
+    <packet>L3NlcnZlci9jb25uZWN0ACwAAAA=</packet>
+  </message>
+</root>
